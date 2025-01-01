@@ -1,9 +1,11 @@
 # Word?:Misc
-Flag is hidden in this file.
-Please look for Flag.
+Flag is hidden in this file.  
+Please look for Flag.  
+[word.docx](./word.docx)
 
 # Solution
-ファイルを開いても何も表示されていない。白文字で見えていないだけでもなかったのでwordがXMLで構成されていること知っているかの確認問題と予想。
+![word.png](./word.png)
+ファイルを開いても何も表示されていない。白文字で見えていないだけでもなかったのでwordがXMLで構成されていること知っているかの確認問題と予想。  
 zipと同じように展開すると[Content_Types].xmlに
 ```
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
