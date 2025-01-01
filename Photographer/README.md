@@ -1,4 +1,4 @@
-# Photographer
+# Photographer:OSINT
 This picture is beautiful!  
 I'd love to see his other photos!  
 [beautiful.jpg](https://github.com/tanplustan/i3CTF_2024/blob/main/Photographer/beautiful.jpg)
